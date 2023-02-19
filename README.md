@@ -5,7 +5,7 @@ this is go template
 go run main.go
 
 ## git branch rename
-git branch -m main master
-git fetch origin
-git branch -u origin/master master
-git remote set-head origin -a
+1. git branch -m main master
+2. git fetch origin
+3. git branch -u origin/master master
+4. git remote set-head origin -a

@@ -1,3 +1,5 @@
+hello world
+
 # go-template
 this is go template
 
